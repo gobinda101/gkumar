@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title></title>
+
+<style>
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+font-family:'Segoe UI',sans-serif;
+}
+
+body{
+background:linear-gradient(-45deg,#001f3f,#0047ab,#0074D9,#00bcd4);
+background-size:400% 400%;
+animation:bg 10s ease infinite;
+color:#fff;
+overflow-x:hidden;
+}
+
+@keyframes bg{
+0%{background-position:0% 50%;}
+50%{background-position:100% 50%;}
+100%{background-position:0% 50%;}
+}
+
+.hero{
+min-height:100vh;
+display:flex;
+flex-direction:column;
+justify-content:center;
+align-items:center;
+padding:20px;
+text-align:center;
+}
+
+.logo{
+width:160px;
+height:160px;
+border-radius:50%;
+border:5px solid #fff;
+object-fit:cover;
+box-shadow:0 0 25px rgba(255,255,255,.5);
+animation:float 3s ease-in-out infinite;
+}
+
+@keyframes float{
+50%{transform:translateY(-10px);}
+}
+
+h1{
+font-size:55px;
+margin:20px 0;
+text-shadow:0 4px 10px rgba(0,0,0,.4);
+}
+
+.tagline{
+max-width:700px;
+font-size:22px;
+line-height:1.7;
+margin-bottom:35px;
+}
+
+.menu{
+width:100%;
+max-width:700px;
+display:grid;
+grid-template-columns:1fr;
+gap:18px;
+}
+
+.btn{
+display:flex;
+align-items:center;
+justify-content:center;
+gap:10px;
+padding:18px;
+background:rgba(255,255,255,.15);
+backdrop-filter:blur(10px);
+border:1px solid rgba(255,255,255,.2);
+border-radius:60px;
+text-decoration:none;
+color:#fff;
+font-size:22px;
+font-weight:600;
+transition:.3s;
+}
+
+.btn:hover{
+transform:translateY(-5px);
+background:rgba(255,255,255,.25);
+}
+
+.counter{
+margin-top:40px;
+font-size:20px;
+background:rgba(255,255,255,.15);
+padding:12px 25px;
+border-radius:30px;
+backdrop-filter:blur(10px);
+}
+
+.footer{
+margin-top:40px;
+font-size:15px;
+opacity:.9;
+}
+
+@media(max-width:768px){
+
+.logo{
+width:130px;
+height:130px;
+}
+
+h1{
+font-size:42px;
+}
+
+.tagline{
+font-size:18px;
+}
+
+.btn{
+font-size:18px;
+}
+}
+</style>
+</head>
+
+<body>
+
+<div class="hero">
+
+<img src="https://i.postimg.cc/h4yBP9hS/Family-Group-20260601-184009.jpg" class="logo">
+
+<h1>🌳 Sah Parivaar</h1>
+
+<p class="tagline">
+हमारे पूर्वजों की विरासत, परिवार की एकता और आने वाली पीढ़ियों के लिए एक डिजिटल परिवार वृक्ष।
+</p>
+
+<div class="menu">
+
+<a href="/p/family-members.html" class="btn">
+👨‍👩‍👧‍👦 Family Members
+</a>
+
+<a href="/p/family-tree.html" class="btn">
+🌳 Family Tree
+</a>
+
+<a href="/p/family-quiz.html" class="btn">
+❓ Family Quiz
+</a>
+
+<a href="/p/family-generation.html" class="btn">
+🏛️ Family Generation
+</a>
+
+<a href="/p/photo-gallery.html" class="btn">
+📸 Photo Gallery
+</a>
+
+<a href="/p/important-locations.html" class="btn">
+📍 Important Locations
+</a>
+
+</div>
+
+<div class="counter">
+👥 Visitors: <span id="visitor">0</span>
+</div>
+
+<div class="footer">
+© 2026 Sah Parivaar | Created by Gobinda Kumar Sah
+</div>
+
+</div>
+
+<script>
+let count = localStorage.getItem("visitors") || 0;
+count++;
+localStorage.setItem("visitors", count);
+document.getElementById("visitor").innerText = count;
+</script>
+
+</body>
+</html>
