@@ -1446,3 +1446,67 @@ Belt Sander,Belt Sander,Workshop,Heavy surface finishing,
 Polisher,Electric Polisher,Metal & Stone,Polishes surfaces,
 Hydraulic Crimping Tool,Hydraulic Crimping Machine,Cable Work,Crimps cable lugs,
 Hydraulic Pipe Bender,Hydraulic Pipe Bending Machine,Conduit & Pipe,Bends metal pipes,
+Short Name,Full Name,Kaha Use Hota Hai,Purpose
+BOQ,Bill of Quantities,Tender & Billing,Quantity and cost estimation
+BOM,Bill of Materials,Procurement,List of required materials
+MTO,Material Take Off,Planning,Material quantity calculation
+MIR,Material Inspection Request,QA/QC,Request for material inspection
+WIR,Work Inspection Request,QA/QC,Request for work inspection
+IR,Inspection Request,QA/QC,Request for inspection approval
+RFI,Request for Information,Client/Consultant,Clarification on drawings/specifications
+RFA,Request for Approval,Client/Consultant,Approval for materials/documents
+MAR,Material Approval Request,Consultant,Material approval
+MAS,Material Approval Submittal,Consultant,Submit material details
+MTS,Material Test Certificate,QA/QC,Certifies material quality
+COC,Certificate of Compliance,QA/QC,Confirms standard compliance
+ITP,Inspection & Test Plan,QA/QC,Inspection procedure
+QAP,Quality Assurance Plan,QA/QC,Quality control process
+MS,Method Statement,Site,Execution procedure
+RA,Risk Assessment,Safety,Risk identification
+JSA,Job Safety Analysis,Safety,Job hazard analysis
+HIRA,Hazard Identification & Risk Assessment,Safety,Hazard evaluation
+PTW,Permit To Work,Safety,Permission before work
+TBT,Tool Box Talk,Safety,Daily safety briefing
+PPE,Personal Protective Equipment,Safety,Safety equipment
+HSE,Health Safety Environment,Safety,Safety management
+EHS,Environment Health Safety,Safety,Environmental safety
+NCR,Non-Conformance Report,QA/QC,Reports non-compliance
+CAR,Corrective Action Report,QA/QC,Action to correct defects
+OBS,Observation,QA/QC,Site observation report
+SIR,Site Inspection Report,QA/QC,Site inspection record
+DPR,Daily Progress Report,Project,Daily work report
+DLR,Daily Labour Report,Site,Daily manpower report
+DMR,Daily Material Report,Store,Daily material record
+MPR,Monthly Progress Report,Project,Monthly project status
+MOM,Minutes of Meeting,Project,Meeting record
+LOI,Letter of Intent,Contract,Initial work authorization
+WO,Work Order,Contract,Official work instruction
+PO,Purchase Order,Procurement,Material purchase order
+PR,Purchase Requisition,Store,Request to purchase material
+RFQ,Request for Quotation,Procurement,Request for supplier quotation
+PI,Proforma Invoice,Procurement,Quotation invoice
+DO,Delivery Order,Store,Material delivery document
+DC,Delivery Challan,Store,Material delivery proof
+GRN,Goods Receipt Note,Store,Material receiving record
+DN,Debit Note,Accounts,Adjustment document
+CN,Credit Note,Accounts,Credit adjustment document
+IPC,Interim Payment Certificate,Billing,Running bill approval
+RA Bill,Running Account Bill,Billing,Progress payment bill
+MB,Measurement Book,Billing,Measurement record
+BBS,Bar Bending Schedule,Civil,Reinforcement schedule
+IFC,Issued For Construction,Drawing,Approved construction drawing
+IFA,Issued For Approval,Drawing,Approval drawing
+IFR,Issued For Review,Drawing,Review drawing
+IFT,Issued For Tender,Tender,Tender drawing
+AFC,Approved For Construction,Drawing,Final approved drawing
+ABD,As Built Drawing,Handover,Final completed drawing
+SD,Shop Drawing,Execution,Construction drawing
+GA,General Arrangement Drawing,Drawing,Overall layout
+ISO,Isometric Drawing,Drawing,3D pipeline drawing
+P&ID,Piping & Instrumentation Diagram,Process,Process piping drawing
+O&M,Operation & Maintenance,Handover,Operation manual
+T&C,Testing & Commissioning,Commissioning,System testing
+FAT,Factory Acceptance Test,Factory,Equipment testing
+SAT,Site Acceptance Test,Site,Equipment acceptance test
+ATP,Acceptance Test Procedure,Commissioning,Test procedure
+DLP,Defect Liability Period,Handover,Defect warranty period
