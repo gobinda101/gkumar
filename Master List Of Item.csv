@@ -1509,3 +1509,35 @@ FAT,Factory Acceptance Test,Factory,Equipment testing
 SAT,Site Acceptance Test,Site,Equipment acceptance test
 ATP,Acceptance Test Procedure,Commissioning,Test procedure
 DLP,Defect Liability Period,Handover,Defect warranty period
+TDS,Technical Data Sheet,Material Approval,Technical specifications of equipment/material
+MSDS,Material Safety Data Sheet,Safety,Chemical handling and safety information
+OHS,Occupational Health and Safety,Site,Worker health and safety compliance
+MTC,Mill Test Certificate,Steel Pipes & Fittings,Manufacturer material quality certificate
+COA,Certificate of Analysis,Chemicals & Water Treatment,Confirms product test results
+MQC,Material Quality Certificate,QA/QC,Verifies material quality
+FIR,Field Inspection Report,Site,Inspection report after site visit
+RFC,Request For Closure,QA/QC,Close completed inspection/comments
+SOR,Site Observation Report,QA/QC,Site observation and remarks
+NDT,Non-Destructive Testing,QA/QC,Testing without damaging material
+Hydro Test,Hydrostatic Pressure Test,Pipeline,Pressure testing of pipeline
+Leak Test,Leakage Test,Pipeline,Checks leakage in pipe system
+Pressure Test,Pressure Testing,Pipeline,Verifies pressure capacity
+Flush Report,Pipeline Flushing Report,Commissioning,Confirms pipeline cleaning
+Disinfection Report,Pipeline Disinfection Report,Water Supply,Confirms pipe sanitization
+Commissioning Report,System Commissioning Report,Commissioning,Final commissioning record
+Snag List,Punch List,Handover,List of pending defects
+Punch Point,Punch Point List,Handover,Defects to be rectified
+Closing Report,Project Closing Report,Handover,Project completion summary
+Handing Over,Handover Report,Handover,Transfers completed work to client
+Warranty,Warranty Certificate,Handover,Equipment warranty details
+Guarantee,Guarantee Certificate,Handover,Guarantee for supplied equipment
+Asset Register,Asset Register,Handover,List of installed assets
+Vendor List,Approved Vendor List,Procurement,List of approved suppliers
+Material Register,Material Register,Store,Material tracking record
+Inspection Log,Inspection Log Book,QA/QC,Inspection history
+Calibration Certificate,Calibration Certificate,QA/QC,Calibration proof for instruments
+Site Instruction,SI - Site Instruction,Site,Instruction issued by consultant/client
+Field Change Request,FCR,Site,Request for modification at site
+Variation Order,VO,Contract,Approval for additional/changed work
+Change Order,CO,Contract,Approved project change
+Technical Query,TQ,Engineering,Technical clarification request
