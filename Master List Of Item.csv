@@ -1562,3 +1562,23 @@ FCT,Fixture Check Test,Sanitary Fixtures,EWC Basin Urinal आदि Check
 SVT,Valve Operation Test,Valves,Valve सही Open/Close हो रहा है
 TCT,Tank Capacity Test,Water Tank,Tank Capacity Verify करना
 CT,Commissioning Test,Complete Plumbing System,पूरे Plumbing System का Final Check
+IFC,Issued For Construction Drawing,Site Execution,Construction के लिए Approved Final Drawing जिसके अनुसार Site पर कार्य किया जाता है।
+SD,Shop Drawing,Site Execution,Actual Installation की Detailed Drawing जिसमें सभी Dimensions एवं Levels दिए होते हैं।
+ABD,As-Built Drawing,Project Handover,Project पूरा होने के बाद वास्तविक Installed Condition को दर्शाने वाली Drawing।
+GA,General Arrangement Drawing,Planning & Site,पूरे System का Overall Layout और Equipment Position दिखाने के लिए।
+ISO,Isometric Drawing,Plumbing/Piping,Pipe Routing, Fittings, Valve और Dimensions को 3D View में दिखाने के लिए।
+RCP,Reflected Ceiling Plan,MEP Coordination,Ceiling में Lights, Diffusers, Sprinklers, Pipes आदि की Location दिखाने के लिए।
+SLD,Single Line Diagram,Electrical/MEP,System का Single Line Connection Diagram दिखाने के लिए।
+PFD,Process Flow Diagram,Water Treatment/STP/WTP,Process का Flow Sequence दिखाने के लिए।
+P&ID,Piping and Instrumentation Diagram,Process Piping,System में Pipes, Valves, Instruments और Equipment Connections दिखाने के लिए।
+Riser,Riser Diagram,Plumbing/Fire Fighting,Vertical Pipe Routing एवं Floor-wise Connections दिखाने के लिए।
+Section,Section Drawing,Site Execution,Building या System का Vertical Cut View दिखाने के लिए।
+Detail,Detailed Drawing,Site Execution,किसी Particular Joint, Fixture या Connection का Enlarged Detail दिखाने के लिए।
+Coord,Coordination Drawing,MEP Coordination,Plumbing, HVAC, Fire Fighting एवं Electrical Services के Clash से बचने के लिए।
+BIM,Building Information Model Drawing,BIM Coordination,3D Model के माध्यम से सभी Services का Coordination करने के लिए।
+Clash,Clash Detection Report,BIM Coordination,दो या अधिक Services के आपस में टकराव (Clash) की पहचान करने के लिए।
+Revision,Drawing Revision,Documentation,Drawing में हुए Changes का Updated Version जारी करने के लिए।
+Plot,Plot Plan Drawing,Planning,पूरे Plot की Boundary, Building Position और External Services दिखाने के लिए।
+Layout,Layout Drawing,Site Execution,Equipment, Pipe, Fixture आदि की Position और Arrangement दिखाने के लिए।
+Key Plan,Key Plan Drawing,Drawings,पूरे Project में किसी Particular Area की Location पहचानने के लिए।
+Legend,Drawing Legend,All Drawings,Drawing में उपयोग किए गए Symbols, Abbreviations और Notes का अर्थ समझाने के लिए।
