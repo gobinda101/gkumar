@@ -1541,3 +1541,24 @@ Field Change Request,FCR,Site,Request for modification at site
 Variation Order,VO,Contract,Approval for additional/changed work
 Change Order,CO,Contract,Approved project change
 Technical Query,TQ,Engineering,Technical clarification request
+Short Name,Full Name,Kaha Use Hota Hai,Purpose / Function
+HT,Hydrostatic Test,Water Supply Pipe,Pipe की Leakage Check करना
+PT,Pressure Test,Water Supply System,Pipe Pressure सहन कर रहा है या नहीं
+LT,Leakage Test,Water & Drainage Pipe,Leak Check करना
+FT,Flushing Test,Water Supply Pipe,Pipe के अंदर की गंदगी निकालना
+DT,Drainage Test,Drainage Pipe,Drainage सही Flow कर रहा है या नहीं
+BWT,Ball Water Test,Drainage Pipe,Pipe में Blockage Check करना
+WT,Water Tightness Test,Tank / Manhole,Tank या Chamber Leak तो नहीं कर रहा
+AT,Air Test,Drainage & Sewer Line,Air Pressure से Leakage Check
+VT,Vacuum Test,Sewer Line,Sewer Pipe की Tightness Check
+FTT,Flow Test,Water Supply,Required Water Flow मिल रहा है या नहीं
+PPT,Pump Performance Test,Pump Room,Pump Capacity Check
+HRT,Head Run Test,Pump,Pump का Head Verify करना
+NRT,Noise & Vibration Test,Pump,Noise और Vibration Check
+DCT,Disinfection / Chlorination Test,Drinking Water Line,Pipe को Bacteria Free करना
+WQT,Water Quality Test,Drinking Water,Water Quality Check
+CST,Smoke Test,Vent Pipe,Vent Leakage Check
+FCT,Fixture Check Test,Sanitary Fixtures,EWC Basin Urinal आदि Check
+SVT,Valve Operation Test,Valves,Valve सही Open/Close हो रहा है
+TCT,Tank Capacity Test,Water Tank,Tank Capacity Verify करना
+CT,Commissioning Test,Complete Plumbing System,पूरे Plumbing System का Final Check
